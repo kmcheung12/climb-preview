@@ -1,0 +1,83 @@
+[
+  {
+    "attempt": "attempt_6962d2",
+    "label": "input.MOV",
+    "static": false,
+    "frames": 578,
+    "mtime": 1784650331.0930178,
+    "has_track": false,
+    "backend": null
+  },
+  {
+    "attempt": "attempt_6a1684",
+    "label": "input.MOV",
+    "static": false,
+    "frames": 568,
+    "mtime": 1784649870.649733,
+    "has_track": false,
+    "backend": null
+  },
+  {
+    "attempt": "attempt_02fe97",
+    "label": "input.MOV",
+    "static": false,
+    "frames": 418,
+    "mtime": 1784642623.7542505,
+    "has_track": false,
+    "backend": null
+  },
+  {
+    "attempt": "attempt_ef5876",
+    "label": "input.MOV",
+    "static": false,
+    "frames": 472,
+    "mtime": 1784595115.4494317,
+    "has_track": true,
+    "backend": "apple"
+  },
+  {
+    "attempt": "attempt_a2abba",
+    "label": "input.MOV",
+    "static": false,
+    "frames": 558,
+    "mtime": 1784593769.5902457,
+    "has_track": true,
+    "backend": "apple"
+  },
+  {
+    "attempt": "attempt_98498f",
+    "label": "input.MOV",
+    "static": false,
+    "frames": 620,
+    "mtime": 1784588650.7309961,
+    "has_track": true,
+    "backend": "apple"
+  },
+  {
+    "attempt": "attempt_b9078f",
+    "label": "input.MOV",
+    "static": false,
+    "frames": 365,
+    "mtime": 1784587713.2166357,
+    "has_track": true,
+    "backend": "apple"
+  },
+  {
+    "attempt": "cam_ceb8a7",
+    "label": "input.mov",
+    "static": false,
+    "frames": 344,
+    "mtime": 1784189429.5618796,
+    "has_track": true,
+    "backend": "apple"
+  },
+  {
+    "attempt": "cam_b0dc3d",
+    "label": "input.mov",
+    "static": false,
+    "frames": 60,
+    "mtime": 1784187701.1154053,
+    "has_track": true,
+    "backend": "apple"
+  }
+]

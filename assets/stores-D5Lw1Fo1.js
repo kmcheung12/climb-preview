@@ -1,0 +1,1 @@
+import{w as e}from"./GLTFLoader-Bb4QnR2_.js";const l=e(""),t=e("inspect"),a={grid:!0,mesh:!0,wire:!1,scaleGrid:!1,heights:!1,holds:!1,routes:!1,climb:!1,debug:!1},o=e(a),r=e({meta:null,playing:!1,t:0,opacity:.6,orbiting:!1,frameIdx:-1,frameTotal:0,frameName:""});export{t as a,r as c,o as l,l as m};
