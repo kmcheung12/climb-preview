@@ -1,5 +1,9 @@
 {
-  "background": "#ddd0d0",
+  "background": "#efe4e4",
+  "groundPlaneEnabled": true,
+  "groundPlaneSize": 30.0,
+  "groundPlaneColor": "#868b90",
+  "gridColor": "#ffffff",
   "ambientColor": "#ffffff",
   "ambientIntensity": 1.2,
   "type": "directional",
