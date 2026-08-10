@@ -1,0 +1,3 @@
+Momentum Human Rig (MHR), Copyright Meta Platforms, Inc.
+Adapted to a reduced browser playback rig. Apache License 2.0.
+https://github.com/facebookresearch/MHR

@@ -1,0 +1,2 @@
+SMPL-Body model data courtesy of MPI-IS, adapted for this viewer.
+Licensed under CC BY 4.0: https://smpl.is.tue.mpg.de/bodylicense.html

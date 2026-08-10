@@ -1,0 +1,194 @@
+{
+  "version": 1,
+  "pois": [
+    {
+      "id": "poi_cc1bdb32",
+      "kind": "stop",
+      "title": "Five walls, one room",
+      "body": "I filmed this gym myself - about two minutes per wall on an iPhone 14, ten minutes in all - and this is me showing you round it. Everything you are about to see is where it actually is.",
+      "camera": {
+        "position": [
+          19.97277863262918,
+          4.743740468109727,
+          0.3298397299213538
+        ],
+        "target": [
+          2.002735477721753,
+          -1.7921648233963463,
+          0.9529909316391743
+        ]
+      },
+      "data": {}
+    },
+    {
+      "id": "poi_tour01",
+      "kind": "stop",
+      "title": "The overhang island",
+      "body": "One of two islands you can climb around. It starts vertical on one side and leans about fifteen degrees over you on the other, demanding more from your upper body and less from your feet.",
+      "position": [
+        0.0,
+        2.2,
+        5.9
+      ],
+      "camera": {
+        "position": [
+          0.0,
+          1.7,
+          16.9
+        ],
+        "target": [
+          0.0,
+          2.2,
+          5.9
+        ]
+      },
+      "scene": {
+        "layers": {
+          "figure": true
+        }
+      },
+      "data": {
+        "section": "gym"
+      }
+    },
+    {
+      "id": "poi_7c130d3c",
+      "kind": "stop",
+      "title": "The slab island",
+      "body": "This island leans away from you by five to fifteen degrees, while the back is almost vertical. Slab climbing is more about balance than strength, which is why many people start here. I hate it, a lot. You can explore the rest of the gym later.",
+      "camera": {
+        "position": [
+          7.924781263848434,
+          2.4412120884132986,
+          2.6227824822762162
+        ],
+        "target": [
+          3.221618608401669,
+          1.9924903354542745,
+          -1.5379692094337871
+        ]
+      },
+      "data": {}
+    },
+    {
+      "id": "poi_tour02",
+      "kind": "stop",
+      "title": "Green to start, pink to finish",
+      "body": "Each wall is composed of multiple routes, or problems. To start, place both hands on the green hold. The route is yours when both hands reach the pink one at the top.",
+      "position": [
+        0.02,
+        2.05,
+        5.9
+      ],
+      "camera": {
+        "position": [
+          -1.048,
+          1.7,
+          11.295
+        ],
+        "target": [
+          0.02,
+          2.05,
+          5.9
+        ]
+      },
+      "scene": {
+        "focus_route": "route_e07fd4e5",
+        "layers": {
+          "holds": true
+        }
+      },
+      "data": {
+        "section": "routes"
+      }
+    },
+    {
+      "id": "poi_65a83b78",
+      "kind": "stop",
+      "title": "Read it before you touch it",
+      "body": "Climbers stand back and work out the sequence first. Look at this one and decide where your hands go.",
+      "position": [
+        -2.2172981761556607,
+        1.004883919198313,
+        11.64269397227506
+      ],
+      "camera": {
+        "position": [
+          -2.888516570141873,
+          0.08374266115605744,
+          6.575712775252737
+        ],
+        "target": [
+          -2.600852010426151,
+          2.250000000000002,
+          11.105947122721785
+        ]
+      },
+      "scene": {
+        "focus_route": "route_44438743",
+        "layers": {}
+      },
+      "data": {}
+    },
+    {
+      "id": "poi_445db2cb",
+      "kind": "stop",
+      "title": "Stuck? You are not alone",
+      "body": "Climbers film their attempts all the time. Instead of leaving them buried in WhatsApp or reduced to location tags on Instagram, this puts each attempt back on the route where it happened. Here is one, attached to the route you have just been looking at.",
+      "position": [
+        -2.3514689893654026,
+        0.9194902360769184,
+        11.6937699388303
+      ],
+      "camera": {
+        "position": [
+          -2.888516570141873,
+          0.08374266115605744,
+          6.575712775252737
+        ],
+        "target": [
+          -2.600852010426151,
+          2.250000000000002,
+          11.105947122721785
+        ]
+      },
+      "scene": {
+        "play_clip": "588aec9d~cam_457b31",
+        "clip_overlay": "none",
+        "layers": {}
+      },
+      "data": {}
+    },
+    {
+      "id": "poi_tour05",
+      "kind": "stop",
+      "title": "Walk around the climber",
+      "body": "A video fixes you at the phone’s viewpoint, so you see the climb from only one angle. Here, the same attempt appears as a moving body on the wall. Step to the side to see the hip turn that the head-on camera could not reveal. Drag to move around the climber.",
+      "position": [
+        -3.2,
+        1.9,
+        11.1
+      ],
+      "camera": {
+        "position": [
+          -4.715174878770442,
+          0.40233326321756413,
+          8.278616963078234
+        ],
+        "target": [
+          -2.86785695448049,
+          1.2391995172788344,
+          11.535273129762114
+        ]
+      },
+      "scene": {
+        "play_clip": "588aec9d~cam_457b31",
+        "clip_overlay": "3d",
+        "layers": {}
+      },
+      "data": {
+        "section": "clips"
+      }
+    }
+  ]
+}

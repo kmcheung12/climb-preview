@@ -1,4 +1,5 @@
 {
+  "human_model": "none",
   "background": "#efe4e4",
   "groundPlaneEnabled": true,
   "groundPlaneSize": 30.0,
